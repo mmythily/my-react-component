@@ -1,0 +1,22 @@
+{
+  "name": "my-cool-react-component",
+  "version": "0.1.0",
+  "description": "My own cool react component",
+  "main": "index.js",
+  "scripts": {
+    "test": "m"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmythily/my-react-component.git"
+  },
+  "author": "Mythily Mudunuru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmythily/my-react-component/issues"
+  },
+  "homepage": "https://github.com/mmythily/my-react-component#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
