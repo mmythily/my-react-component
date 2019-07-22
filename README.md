@@ -1,4 +1,5 @@
-# My first React component
+# My first package on npm which is a React component.
+https://www.npmjs.com/package/my-cool-react-component 
 
 ### Quickstart
 
