@@ -11,5 +11,5 @@ import Cool from 'npm i my-cool-react-component'
 
 ...
 
-<Sweet emoji />
+<Cool emoji />
 ```
